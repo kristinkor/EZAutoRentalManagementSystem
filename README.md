@@ -7,7 +7,7 @@ For more detailed documentation and project information, please refer to the [EZ
 
 
 # EZRental POS - Point of Sale Management System
-![169acb0775b54d049954ca62d34839b3](https://github.com/kristinkor/EZAutoRentalManagementSystem/assets/30262973/71a32e25-4e64-42cb-92b0-4cf4c2261b58)
+![169acb0775b54d049954ca62d34839b3 (1)](https://github.com/kristinkor/EZAutoRentalManagementSystem/assets/30262973/7be8b905-f435-448f-aa0d-281d1773526c)
 
 
 ## Table of Contents
@@ -49,7 +49,7 @@ Before running the EZRental POS system, ensure you have the following prerequisi
 1. Clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/yourusername/EZRental-POS.git](https://github.com/kristinkor/EZAutoRentalManagementSystem.git)
+git clone https://github.com/kristinkor/EZAutoRentalManagementSystem.git
 ```
 
 2. Open the project in your C# development environment.
@@ -68,7 +68,7 @@ git clone [https://github.com/yourusername/EZRental-POS.git](https://github.com/
 
 ## Database Implementation
 
-The EZRental POS system uses a SQL database to store and manage data. Below are the SQL commands used to create the database and tables:
+The EZRental POS system uses a SQL database to store and manage data. Below are the example of SQL commands used to create the database and tables:
 
 ```sql
 -- Create the database
@@ -91,4 +91,4 @@ CREATE TABLE CUSTOMER
 
 ```
 
-You can find the complete SQL script in the project's database folder.
+You can find the complete SQL script in the project's documentation.
